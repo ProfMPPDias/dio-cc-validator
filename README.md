@@ -1,5 +1,8 @@
 # 🏦 Projeto DIO do Curso GitHub Copilot - Identificador de Bandeira de Cartão de Crédito
 
+[![Screenshot da aplicação](./images/usage.png)]
+
+
 Uma aplicação Python simples e elegante para identificar a bandeira de cartões de crédito (Visa, MasterCard, American Express, etc.) com base no número fornecido.
 
 ## ✨ Características
