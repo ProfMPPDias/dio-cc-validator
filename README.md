@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 🏦 Identificador de Bandeira de Cartão de Crédito
+# 🏦 Projeto DIO do Curso GitHub Copilot - Identificador de Bandeira de Cartão de Crédito
 
 Uma aplicação Python simples e elegante para identificar a bandeira de cartões de crédito (Visa, MasterCard, American Express, etc.) com base no número fornecido.
 
@@ -17,7 +15,7 @@ Uma aplicação Python simples e elegante para identificar a bandeira de cartõe
 
 1. Execute o script Python:
 ```bash
-python identificador_cartao.py
+python main.py
 ```
 
 2. Digite o número do cartão de crédito quando solicitado
@@ -35,7 +33,6 @@ python identificador_cartao.py
 ## 📋 Requisitos
 
 - Python 3.6+
-- Nenhuma dependência externa necessária
 
 
 ## 🛡️ Segurança
